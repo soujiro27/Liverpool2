@@ -95,5 +95,6 @@ main .products-container{
 
 .product:hover{
     box-shadow: 7px 7px 5px rgba(0, 0, 0, .3);
-    border:1px solid #c81685 
+    border:1px solid #c81685;
 }
+
